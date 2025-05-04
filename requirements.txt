@@ -1,0 +1,9 @@
+smolagents[litellm]
+lanchain-community
+rank_bm25
+streamlit
+datasets
+llama-index
+llama-index-vector-stores-chroma
+llama-index-embedding-huggingface
+llama-index-llms-ollama
